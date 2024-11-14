@@ -1,4 +1,3 @@
-aifunctions @ file:///C:/Users/kryardley/OneDrive%20-%20Church%20of%20Jesus%20Christ/Documents/pdf_extract/SimpleAzureSearch-template/aifunctions
 annotated-types==0.7.0
 anyio==4.4.0
 asttokens==2.4.1
